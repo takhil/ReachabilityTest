@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.3 (swiftlang-800.10.12 clang-800.0.38)"
+options: "11877aefe313c5d052487759d1a1b8d7"
+build_time: [531704410, 807106000]
+inputs:
+  "/Users/akhiltirumalasetty/Desktop/ReachabilityTest/ReachabilityTest/CommonFunction.swift": [531700048, 0]
+  "/Users/akhiltirumalasetty/Desktop/ReachabilityTest/ReachabilityTest/OfflineViewController.swift": [531626731, 0]
+  "/Users/akhiltirumalasetty/Desktop/ReachabilityTest/ReachabilityTest/ViewController.swift": [531684503, 0]
+  "/Users/akhiltirumalasetty/Desktop/ReachabilityTest/ReachabilityTest/AppDelegate.swift": [531700048, 0]

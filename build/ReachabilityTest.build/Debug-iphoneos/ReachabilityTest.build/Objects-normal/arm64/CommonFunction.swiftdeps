@@ -1,0 +1,139 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "kREACHABLEWITHWIFI"
+- "kNOTREACHABLE"
+- "kREACHABLEWITHWAN"
+- "reachability"
+- "reachabilityStatus"
+- "CommonFunction"
+provides-nominal:
+- "C16ReachabilityTest14CommonFunction"
+provides-member:
+- ["C16ReachabilityTest14CommonFunction", ""]
+provides-dynamic-lookup:
+- "isInternetConnected"
+depends-top-level:
+- "StringLiteralType"
+- "CommonFunction"
+- "kNOTREACHABLE"
+- "Reachability"
+- !private "=="
+- !private "NotReachable"
+- "kREACHABLEWITHWAN"
+- "kREACHABLEWITHWIFI"
+- !private "BooleanLiteralType"
+- "reachability"
+- "reachabilityStatus"
+- "NSObject"
+- "Bool"
+depends-member:
+- !private ["Ps9AnyObject", "NotReachable"]
+- !private ["Ps9AnyObject", "Reachability"]
+- !private ["Ps9AnyObject", "currentReachabilityStatus"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "isInternetConnected"]
+- !private ["Ps9AnyObject", "reachabilityForInternetConnection"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps11BooleanType", "_getBuiltinLogicValue"]
+- !private ["Ps11CVarArgType", "NotReachable"]
+- !private ["Ps11CVarArgType", "Reachability"]
+- !private ["Ps11CVarArgType", "currentReachabilityStatus"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "isInternetConnected"]
+- !private ["Ps11CVarArgType", "reachabilityForInternetConnection"]
+- ["Ps11CVarArgType", ""]
+- ["C16ReachabilityTest14CommonFunction", "Bool"]
+- !private ["C16ReachabilityTest14CommonFunction", "NotReachable"]
+- !private ["C16ReachabilityTest14CommonFunction", "Reachability"]
+- ["C16ReachabilityTest14CommonFunction", "deinit"]
+- ["C16ReachabilityTest14CommonFunction", "init"]
+- ["C16ReachabilityTest14CommonFunction", "isInternetConnected"]
+- !private ["Ps28CustomDebugStringConvertible", "NotReachable"]
+- !private ["Ps28CustomDebugStringConvertible", "Reachability"]
+- !private ["Ps28CustomDebugStringConvertible", "currentReachabilityStatus"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "isInternetConnected"]
+- !private ["Ps28CustomDebugStringConvertible", "reachabilityForInternetConnection"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "NotReachable"]
+- !private ["Ps23CustomStringConvertible", "Reachability"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "currentReachabilityStatus"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "isInternetConnected"]
+- !private ["Ps23CustomStringConvertible", "reachabilityForInternetConnection"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "NotReachable"]
+- !private ["Ps9Equatable", "RawValue"]
+- !private ["Ps9Equatable", "Reachability"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "currentReachabilityStatus"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "isInternetConnected"]
+- !private ["Ps9Equatable", "reachabilityForInternetConnection"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "NotReachable"]
+- !private ["Ps8Hashable", "Reachability"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "currentReachabilityStatus"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "isInternetConnected"]
+- !private ["Ps8Hashable", "reachabilityForInternetConnection"]
+- ["Ps8Hashable", ""]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "NotReachable"]
+- !private ["CSo8NSObject", "Reachability"]
+- !private ["CSo8NSObject", "currentReachabilityStatus"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "isInternetConnected"]
+- !private ["CSo8NSObject", "reachabilityForInternetConnection"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "NotReachable"]
+- !private ["PSo16NSObjectProtocol", "Reachability"]
+- !private ["PSo16NSObjectProtocol", "currentReachabilityStatus"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "isInternetConnected"]
+- !private ["PSo16NSObjectProtocol", "reachabilityForInternetConnection"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["VSC13NetworkStatus", "RawValue"]
+- !private ["VSC13NetworkStatus", "deinit"]
+- !private ["Ps16RawRepresentable", "RawValue"]
+- !private ["CSo12Reachability", "currentReachabilityStatus"]
+- !private ["CSo12Reachability", "reachabilityForInternetConnection"]
+- !private ["Ps33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "_getBuiltinLogicValue"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sb"
+- !private "Ps25BooleanLiteralConvertible"
+- !private "Ps11BooleanType"
+- "Ps11CVarArgType"
+- "C16ReachabilityTest14CommonFunction"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "VSC13NetworkStatus"
+- !private "Ps16RawRepresentable"
+- !private "CSo12Reachability"
+- !private "Ps33_BuiltinBooleanLiteralConvertible"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/akhiltirumalasetty/Desktop/ReachabilityTest/ReachabilityTest/ReachabilityTest-Bridging-Header.h"
+- "/Users/akhiltirumalasetty/Desktop/ReachabilityTest/ReachabilityTest/Reachability.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+interface-hash: "62c7e2a75f48ec1007b5fa1da3b0327d"
